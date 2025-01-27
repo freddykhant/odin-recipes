@@ -1,6 +1,6 @@
 # 🍴 freddy's recipes
 
-welcome to freddy's recipes! 👨‍🍳 i'm learning html properly by creating a simple food blog to share my favorite high protein and macro-friendly food recipes for my fellow fitness people
+welcome to freddy's recipes! 👨‍🍳 i'm re-learning html PROPERLY this time by creating a simple food blog to share my favorite high protein and macro-friendly food recipes for my fellow fitness people
 
 ## 🚀 goals
 
